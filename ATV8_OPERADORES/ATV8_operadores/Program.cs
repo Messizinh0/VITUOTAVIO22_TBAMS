@@ -5,6 +5,7 @@ int B = 0;
 int VF = 0;
 
 Console.WriteLine("Digite o 1º valor:");
+Console.WriteLine("Número:");
 A = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Digite o 2º valor:");
