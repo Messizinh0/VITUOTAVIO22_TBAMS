@@ -1,0 +1,15 @@
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.csproj.AssemblyReference.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.AssemblyInfoInputs.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.AssemblyInfo.cs
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.csproj.CoreCompileInputs.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\bin\Debug\net6.0\ATV8_operadores.exe
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\bin\Debug\net6.0\ATV8_operadores.deps.json
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\bin\Debug\net6.0\ATV8_operadores.runtimeconfig.json
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\bin\Debug\net6.0\ATV8_operadores.dll
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\bin\Debug\net6.0\ATV8_operadores.pdb
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.dll
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\refint\ATV8_operadores.dll
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.pdb
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ATV8_operadores.genruntimeconfig.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV8_OPERADORES\ATV8_operadores\obj\Debug\net6.0\ref\ATV8_operadores.dll

@@ -1,0 +1,15 @@
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\bin\Debug\net6.0\ATV9_opdiv.exe
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\bin\Debug\net6.0\ATV9_opdiv.deps.json
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\bin\Debug\net6.0\ATV9_opdiv.runtimeconfig.json
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\bin\Debug\net6.0\ATV9_opdiv.dll
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\bin\Debug\net6.0\ATV9_opdiv.pdb
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.csproj.AssemblyReference.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.AssemblyInfoInputs.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.AssemblyInfo.cs
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.csproj.CoreCompileInputs.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.dll
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\refint\ATV9_opdiv.dll
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.pdb
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ATV9_opdiv.genruntimeconfig.cache
+D:\JEFERSON PROGRAMMERS\EXERCICIOS\ATV9_operadoresDivisao\ATV9_opdiv\obj\Debug\net6.0\ref\ATV9_opdiv.dll

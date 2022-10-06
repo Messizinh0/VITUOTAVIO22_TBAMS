@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ATV9_opdiv/1.0.0": {
+        "runtime": {
+          "ATV9_opdiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATV9_opdiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
